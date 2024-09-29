@@ -1,4 +1,5 @@
 # Instagram-clone
 This is my first Instagram clone!
 <br>
----Made by Mahima Jain.
+--Made by Mahima Jain.
+
